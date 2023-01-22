@@ -21,6 +21,6 @@ First I'll need to create a DataFrame from scratch.
  8. Marking non-feature films
  9. Plotting with color!
 
-Note: Original concept for this project was developed by and is attributed to https://www.datacamp.com
+Note: Original concept for this project was developed by and is attributed to https://www.datacamp.com;
 credit to the datacamp Hands-on learning experience 
 
