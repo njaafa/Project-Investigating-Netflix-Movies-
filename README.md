@@ -6,7 +6,11 @@ I secured information relating to the years from 2011 to 2020, the average movie
 If we're going to be working with this data, we know a good place to start would be to probably start working with pandas and below are quick steps.
 First I'll need to create a DataFrame from scratch.
 
-PROJECTS STEPS
+### Project tools
+Analysis tool: Juptyer nootebook
+Language: Python 
+
+### Project steps
  1. Loading data into a dictionary 
  2. Creating a DataFrame from a dictionary
  3. A visual inspection of our data
