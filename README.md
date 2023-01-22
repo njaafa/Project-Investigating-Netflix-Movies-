@@ -7,8 +7,8 @@ If we're going to be working with this data, we know a good place to start would
 First I'll need to create a DataFrame from scratch.
 
 ### Project tools
-Analysis tool: Juptyer nootebook
-Language: Python 
+ 1. Analysis tool: Juptyer nootebook
+ 2. Language: Python 
 
 ### Project steps
  1. Loading data into a dictionary 
