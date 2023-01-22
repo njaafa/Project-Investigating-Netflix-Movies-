@@ -3,7 +3,7 @@
 Investigating the average duration of movies over the years - 2011 to 2020
 The assumption for this project is that the average duration of movies has been declining over the years, as evidence of this, 
 I secured information relating to the years from 2011 to 2020, the average movie durations are said to be 103, 101, 99, 100, 100, 95, 95, 96, 93, and 90, respectively.
-If we're going to be working with this data, we know a good place to start would be to probably start working with pandas.
+If we're going to be working with this data, we know a good place to start would be to probably start working with pandas and below are quick steps.
 First I'll need to create a DataFrame from scratch.
 
 PROJECTS STEPS
